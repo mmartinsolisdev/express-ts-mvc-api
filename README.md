@@ -11,6 +11,11 @@ CRUD MVC Api in NodeJs developed with Typescript using ExpressJs framework, mong
 ## Requeriments
 Install Nodejs environment in your O.S. - https://nodejs.org/en/
 
+This project connects to a database hosted in Mongo Atlas, but you can install MongoDB on your PC and use your own database locally or create an account at Mongo Atlas.  
+
+Use [Mongo Atlas](https://expressjs.com/)  
+Download [MongoDB](https://www.mongodb.com/try/download/community)
+
 ## Project setup installation
 
 Install project dependencies, from the root path of the project run in terminal:
