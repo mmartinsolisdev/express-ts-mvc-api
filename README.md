@@ -30,6 +30,9 @@ DB_USER=databaseUser
 DB_PASS=databasePass
 ```
 
+The `.env` file must be in the root path of the project.
+
+
 ## Deployment
 
 **Development**
